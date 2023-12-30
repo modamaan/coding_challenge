@@ -15,7 +15,7 @@ def max_occur_chance(arr, lookup):
             max_count = dic_count[key]
             max_key = key
 
-    return max_key,max_count
+    return max_key
 
 """ explanation 
 
